@@ -1,0 +1,89 @@
+   <section id="carrusel" class="s_carousel_wrapper d-none d-md-block" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+        <div class="s_carousel s_carousel_default carousel slide pointer-event" data-interval="10000" id="myCarousel1667792722697" style="background-image: none;">
+          <ol class="carousel-indicators o_we_no_overlay">
+            <li data-slide-to="0" data-target="#myCarousel1667792722697" class="active"/>
+            <li data-target="#myCarousel1667792722697" data-slide-to="1"/>
+            <li data-target="#myCarousel1667792722697" data-slide-to="2"/>
+            <li data-target="#myCarousel1667792722697" data-slide-to="3"/>
+            <li data-target="#myCarousel1667792722697" data-slide-to="4"/>
+            <li data-target="#myCarousel1667792722697" data-slide-to="5"/>
+          </ol>
+          <div id="carrusel" class="carousel-inner">
+            <div class="carousel-item o_colored_level pb216 pt48 oe_img_bg o_bg_img_center active" style="background-image: url(&quot;https://rolnadomt1993.github.io/nihao53/banners/web/intimas.jpg&quot;);" data-name="Slide">
+              <div class="oe_unremovable container-fluid">
+                <div class="row content">
+                  <div class="carousel-content text-center o_colored_level col-lg-12 d-none d-md-block pb256 pt120" data-original-title="" title="" aria-describedby="tooltip744654">
+                    <h2 style="font-size: 62px;">
+                      <br/>
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item o_colored_level pb216 pt48 oe_img_bg o_bg_img_center" style="background-image: url(&quot;https://rolnadomt1993.github.io/nihao53/banners/web/jugo_cajas_latas.jpg&quot;);" data-name="Slide">
+              <div class="oe_unremovable container-fluid">
+                <div class="row content">
+                  <div class="carousel-content text-center o_colored_level col-lg-12 d-none d-md-block pb256 pt120" data-original-title="" title="" aria-describedby="tooltip744654">
+                    <h2 style="font-size: 62px;">
+                      <br/>
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item o_colored_level pb216 pt48 oe_img_bg o_bg_img_center" style="background-image: url(&quot;https://rolnadomt1993.github.io/nihao53/banners/web/vinilos.jpg&quot;);" data-name="Slide">
+              <div class="oe_unremovable container-fluid">
+                <div class="row content">
+                  <div class="carousel-content text-center o_colored_level col-lg-12 d-none d-md-block pb256 pt120" data-original-title="" title="" aria-describedby="tooltip744654">
+                    <h2 style="font-size: 62px;">
+                      <br/>
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item o_colored_level pb216 pt48 oe_img_bg o_bg_img_center" style="background-image: url(&quot;https://rolnadomt1993.github.io/nihao53/banners/web/sublimacion.jpg&quot;);" data-name="Slide">
+              <div class="oe_unremovable container-fluid">
+                <div class="row content">
+                  <div class="carousel-content text-center o_colored_level col-lg-12 d-none d-md-block pb256 pt120" data-original-title="" title="" aria-describedby="tooltip744654">
+                    <h2 style="font-size: 62px;">
+                      <br/>
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item o_colored_level pb216 pt48 oe_img_bg o_bg_img_center" style="background-image: url(&quot;https://rolnadomt1993.github.io/nihao53/banners/web/alambre_tuberias.jpg&quot;);" data-name="Slide">
+              <div class="oe_unremovable container-fluid">
+                <div class="row content">
+                  <div class="carousel-content text-center o_colored_level col-lg-12 d-none d-md-block pb256 pt120" data-original-title="" title="" aria-describedby="tooltip744654">
+                    <h2 style="font-size: 62px;">
+                      <br/>
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item o_colored_level pb216 pt48 oe_img_bg o_bg_img_center" style="background-image: url(&quot;https://rolnadomt1993.github.io/nihao53/banners/web/esferas_perlas.jpg&quot;);" data-name="Slide">
+              <div class="oe_unremovable container-fluid">
+                <div class="row content">
+                  <div class="carousel-content text-center o_colored_level col-lg-12 d-none d-md-block pb256 pt120" data-original-title="" title="" aria-describedby="tooltip744654">
+                    <h2 style="font-size: 62px;">
+                      <br/>
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev o_not_editable o_we_no_overlay" data-slide="prev" role="img" aria-label="Anterior" title="Anterior" href="#myCarousel1667792722697">
+            <span class="carousel-control-prev-icon"/>
+            <span class="sr-only o_default_snippet_text">Anterior</span>
+          </a>
+          <a class="carousel-control-next o_not_editable o_we_no_overlay" data-slide="next" role="img" aria-label="Siguiente" title="Siguiente" href="#myCarousel1667792722697">
+            <span class="carousel-control-next-icon"/>
+            <span class="sr-only o_default_snippet_text">Siguiente</span>
+          </a>
+        </div>
+      </section>
+  
